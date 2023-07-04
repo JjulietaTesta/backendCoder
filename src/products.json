@@ -1,0 +1,47 @@
+[
+  {
+      "id": 1,
+      "title": "mouse",
+      "description": "inalambrico",
+      "price": 200,
+      "thumbnail": "sin imagen",
+      "code": "abc123",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "title": "teclado",
+      "description": "inalambrico",
+      "price": 2000,
+      "thumbnail": "sin imagen",
+      "code": "abc123a",
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "title": "auriculares",
+      "description": "inalambricos",
+      "price": 2300,
+      "thumbnail": "sin imagen",
+      "code": "ab345",
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "title": "parlante PC",
+      "description": "JBL",
+      "price": 23450,
+      "thumbnail": "sin imagen",
+      "code": "ab236a",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "title": "cable HDMI",
+      "description": "sin descripcion",
+      "price": 200,
+      "thumbnail": "sin imagen",
+      "code": "abc123bbb",
+      "stock": 25
+    }
+]
